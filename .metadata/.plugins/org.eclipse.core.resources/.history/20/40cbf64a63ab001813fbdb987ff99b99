@@ -1,0 +1,5 @@
+package italika.administracion.empresas.web.facade;
+
+public class EmpresaFacade {
+
+}
